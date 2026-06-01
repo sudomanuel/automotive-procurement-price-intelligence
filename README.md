@@ -150,7 +150,7 @@ python -m src.supplier_scoring     # 5. supplier scorecard
 python -m src.visualization        # 6. all 10 figures
 ```
 
-The narrative analysis lives in `notebooks/01…05`. Everything is reproducible (fixed random seed + fixed analysis window); re-running regenerates identical data and outputs.
+The narrative analysis lives in `notebooks/01…05` (committed **pre-executed**, so the figures and tables render on GitHub). For a step-by-step, plain-language walkthrough of the whole operational flow **and how to run the notebooks**, see **[`WALKTHROUGH.md`](WALKTHROUGH.md)**. Everything is reproducible (fixed random seed + fixed analysis window); re-running regenerates identical data and outputs.
 
 ```
 automotive-procurement-price-intelligence/
