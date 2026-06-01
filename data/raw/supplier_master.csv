@@ -1,0 +1,61 @@
+supplier_id,supplier_name,country,region,supplier_region,archetype,n_components_served,components_served
+SUP-001,Juno Systems Inc.,USA,North America,North-America,Cost Efficient,2,Battery Module; Suspension Component
+SUP-002,"Onyx Drivetrain Co., Ltd.",China,Asia,Asia-Pacific,Cost Efficient,3,Battery Module; Interior Trim; Tire Set
+SUP-003,"Zelos Electronics Co., Ltd.",China,Asia,Asia-Pacific,Strategic Partner,2,Battery Module; Infotainment Unit
+SUP-004,Drava Systems S.p.A.,Italy,Europe,EU-West,Reliable but Expensive,1,Aluminum Casting
+SUP-005,"Granta Components Co., Ltd.",China,Asia,Asia-Pacific,High Risk,3,Battery Module; Infotainment Unit; Tire Set
+SUP-006,Atlas Automotive S.A. de C.V.,Mexico,North America,Nearshore-Americas,Cost Efficient,1,Wiring Harness
+SUP-007,"Xenon Systems Co., Ltd.",China,Asia,Asia-Pacific,High Risk,2,Brake System; Wiring Harness
+SUP-008,Magna Castings S.p.A.,Italy,Europe,EU-West,Strategic Partner,2,Electric Motor Part; Wiring Harness
+SUP-009,Bavaria Systems S.A.,Spain,Europe,EU-West,Cost Efficient,1,Brake System
+SUP-010,Estala Automotive s.r.o.,Czech Republic,Europe,EU-East,Underperformer,3,Aluminum Casting; Infotainment Unit; Interior Trim
+SUP-011,Verde Electronics GmbH,Germany,Europe,Domestic,Cost Efficient,3,Cooling System; Electric Motor Part; Suspension Component
+SUP-012,Kraft Tech S.A.,Spain,Europe,EU-West,High Risk,1,Infotainment Unit
+SUP-013,Ibex Mobility GmbH,Germany,Europe,Domestic,Strategic Partner,3,Aluminum Casting; Electric Motor Part; Interior Trim
+SUP-014,Stellar Tech Inc.,USA,North America,North-America,Reliable but Expensive,3,Aluminum Casting; Battery Module; Wiring Harness
+SUP-015,Vulcan Components s.r.o.,Czech Republic,Europe,EU-East,Cost Efficient,2,Infotainment Unit; Suspension Component
+SUP-016,Lumina Electronics S.p.A.,Italy,Europe,EU-West,Strategic Partner,3,Aluminum Casting; Battery Module; Cooling System
+SUP-017,Caldera Drivetrain s.r.o.,Czech Republic,Europe,EU-East,Strategic Partner,3,Brake System; Cooling System; Suspension Component
+SUP-018,Razon Precision S.p.A.,Italy,Europe,EU-West,Cost Efficient,4,Battery Module; Electric Motor Part; Infotainment Unit; Suspension Component
+SUP-019,Falcon Castings S.A. de C.V.,Mexico,North America,Nearshore-Americas,Reliable but Expensive,2,Battery Module; Infotainment Unit
+SUP-020,Solaris Drivetrain s.r.o.,Czech Republic,Europe,EU-East,Underperformer,2,Battery Module; Electric Motor Part
+SUP-021,Halden Precision S.A. de C.V.,Mexico,North America,Nearshore-Americas,Strategic Partner,2,Infotainment Unit; Wiring Harness
+SUP-022,Larix Castings s.r.o.,Czech Republic,Europe,EU-East,Strategic Partner,3,Aluminum Casting; Electric Motor Part; Infotainment Unit
+SUP-023,"Fenix Systems Co., Ltd.",China,Asia,Asia-Pacific,High Risk,1,Suspension Component
+SUP-024,Umbra Mobility S.p.A.,Italy,Europe,EU-West,High Risk,4,Aluminum Casting; Brake System; Cooling System; Wiring Harness
+SUP-025,Pioneer Tech Sp. z o.o.,Poland,Europe,EU-East,Underperformer,3,Electric Motor Part; Infotainment Unit; Wiring Harness
+SUP-026,Helios Castings S.A. de C.V.,Mexico,North America,Nearshore-Americas,Balanced,2,Brake System; Tire Set
+SUP-027,Tramont Automotive Sp. z o.o.,Poland,Europe,EU-East,Cost Efficient,3,Aluminum Casting; Infotainment Unit; Wiring Harness
+SUP-028,Westmark Industries GmbH,Germany,Europe,Domestic,Strategic Partner,3,Aluminum Casting; Cooling System; Electric Motor Part
+SUP-029,Meridian Components s.r.o.,Czech Republic,Europe,EU-East,Strategic Partner,1,Tire Set
+SUP-030,Kepler Mobility S.A.,Spain,Europe,EU-West,High Risk,2,Brake System; Infotainment Unit
+SUP-031,NordTec Tech GmbH,Germany,Europe,Domestic,Cost Efficient,2,Cooling System; Tire Set
+SUP-032,Zenith Drivetrain GmbH,Germany,Europe,Domestic,Underperformer,1,Wiring Harness
+SUP-033,"Mercura Mobility Co., Ltd.",China,Asia,Asia-Pacific,High Risk,3,Electric Motor Part; Tire Set; Wiring Harness
+SUP-034,Cobalt Tech S.A.,Spain,Europe,EU-West,Cost Efficient,1,Suspension Component
+SUP-035,Hanseatic Automotive Sp. z o.o.,Poland,Europe,EU-East,Cost Efficient,2,Electric Motor Part; Interior Trim
+SUP-036,Pallas Mobility s.r.o.,Czech Republic,Europe,EU-East,Reliable but Expensive,3,Aluminum Casting; Brake System; Tire Set
+SUP-037,Rhein Electronics GmbH,Germany,Europe,Domestic,High Risk,4,Cooling System; Electric Motor Part; Interior Trim; Wiring Harness
+SUP-038,Castor Precision Inc.,USA,North America,North-America,Balanced,3,Brake System; Cooling System; Infotainment Unit
+SUP-039,Orion Mobility S.A.,Spain,Europe,EU-West,Strategic Partner,3,Battery Module; Suspension Component; Tire Set
+SUP-040,Ydra Systems S.A.,Spain,Europe,EU-West,Underperformer,1,Infotainment Unit
+SUP-041,"Apex Electronics Co., Ltd.",China,Asia,Asia-Pacific,High Risk,2,Interior Trim; Wiring Harness
+SUP-042,Quanta Mobility GmbH,Germany,Europe,Domestic,Strategic Partner,4,Brake System; Cooling System; Infotainment Unit; Interior Trim
+SUP-043,Novaron Drivetrain Sp. z o.o.,Poland,Europe,EU-East,Underperformer,3,Interior Trim; Suspension Component; Wiring Harness
+SUP-044,"Vortex Automotive Co., Ltd.",China,Asia,Asia-Pacific,Strategic Partner,2,Interior Trim; Wiring Harness
+SUP-045,Tindal Precision Inc.,USA,North America,North-America,Balanced,1,Brake System
+SUP-046,Volta Drivetrain GmbH,Germany,Europe,Domestic,Underperformer,3,Electric Motor Part; Interior Trim; Tire Set
+SUP-047,"Juno Components Co., Ltd.",China,Asia,Asia-Pacific,Strategic Partner,4,Aluminum Casting; Battery Module; Tire Set; Wiring Harness
+SUP-048,Onyx Castings S.A. de C.V.,Mexico,North America,Nearshore-Americas,Strategic Partner,3,Electric Motor Part; Infotainment Unit; Wiring Harness
+SUP-049,Zelos Systems S.A.,Spain,Europe,EU-West,Balanced,2,Cooling System; Infotainment Unit
+SUP-050,Drava Electronics S.A.,Spain,Europe,EU-West,Strategic Partner,3,Aluminum Casting; Battery Module; Wiring Harness
+SUP-051,Granta Systems Inc.,USA,North America,North-America,Reliable but Expensive,3,Aluminum Casting; Tire Set; Wiring Harness
+SUP-052,"Atlas Tech Co., Ltd.",China,Asia,Asia-Pacific,High Risk,4,Electric Motor Part; Infotainment Unit; Suspension Component; Tire Set
+SUP-053,Xenon Tech s.r.o.,Czech Republic,Europe,EU-East,Cost Efficient,3,Brake System; Cooling System; Tire Set
+SUP-054,Magna Mobility GmbH,Germany,Europe,Domestic,Cost Efficient,2,Aluminum Casting; Electric Motor Part
+SUP-055,Bavaria Castings S.A.,Spain,Europe,EU-West,Cost Efficient,3,Aluminum Casting; Electric Motor Part; Suspension Component
+SUP-056,Estala Electronics S.A. de C.V.,Mexico,North America,Nearshore-Americas,Underperformer,2,Interior Trim; Tire Set
+SUP-057,Verde Systems S.A. de C.V.,Mexico,North America,Nearshore-Americas,Strategic Partner,2,Brake System; Tire Set
+SUP-058,Kraft Castings S.A. de C.V.,Mexico,North America,Nearshore-Americas,Balanced,2,Electric Motor Part; Interior Trim
+SUP-059,Ibex Electronics Inc.,USA,North America,North-America,Balanced,2,Cooling System; Interior Trim
+SUP-060,Stellar Drivetrain GmbH,Germany,Europe,Domestic,Reliable but Expensive,2,Electric Motor Part; Interior Trim

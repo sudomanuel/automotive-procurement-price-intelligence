@@ -1,0 +1,39 @@
+feature,importance,source_model
+cat__component_category_EV Components,0.5050144216892066,Gradient Boosting
+cat__component_type_Battery Module,0.29447634257794236,Gradient Boosting
+cat__component_type_Electric Motor Part,0.15086188334372044,Gradient Boosting
+num__order_volume,0.011755664400387108,Gradient Boosting
+num__energy_cost_index,0.007009985988539794,Gradient Boosting
+num__logistics_cost,0.006737138141013385,Gradient Boosting
+num__supplier_capacity_utilization,0.005360503827150573,Gradient Boosting
+num__raw_material_index,0.004836674479612373,Gradient Boosting
+cat__component_type_Infotainment Unit,0.003871070451890521,Gradient Boosting
+num__sustainability_score,0.002965281014486977,Gradient Boosting
+num__lead_time_days,0.0025603467536412993,Gradient Boosting
+cat__contract_type_Spot,0.0010415913454081365,Gradient Boosting
+cat__country_USA,0.0008915247278527626,Gradient Boosting
+cat__component_type_Wiring Harness,0.0006061491198778025,Gradient Boosting
+cat__country_Mexico,0.000566208884379503,Gradient Boosting
+cat__component_type_Tire Set,0.00031336018107133506,Gradient Boosting
+cat__region_North America,0.00017774305682063675,Gradient Boosting
+cat__component_category_Interior,0.00014812142513932595,Gradient Boosting
+cat__country_Czech Republic,0.00013644446710093372,Gradient Boosting
+cat__component_type_Interior Trim,0.00013452141332976708,Gradient Boosting
+num__exchange_rate_index,0.0001142327542103751,Gradient Boosting
+cat__component_type_Brake System,6.636625962355508e-05,Gradient Boosting
+cat__region_Europe,6.542335082951338e-05,Gradient Boosting
+cat__country_Italy,5.541899737409519e-05,Gradient Boosting
+cat__contract_type_Multi-year Contract,5.479261732486381e-05,Gradient Boosting
+cat__component_type_Suspension Component,4.288022332320984e-05,Gradient Boosting
+cat__country_Spain,2.7317682648008596e-05,Gradient Boosting
+cat__country_China,2.4158967815639507e-05,Gradient Boosting
+cat__component_category_Powertrain,1.915037438582197e-05,Gradient Boosting
+cat__component_type_Aluminum Casting,1.4938051543290972e-05,Gradient Boosting
+cat__region_Asia,1.2983044176291285e-05,Gradient Boosting
+cat__component_category_Thermal Management,1.2921211014105837e-05,Gradient Boosting
+cat__component_type_Cooling System,9.346424595306895e-06,Gradient Boosting
+cat__component_category_Chassis,6.7147395991260745e-06,Gradient Boosting
+cat__country_Poland,4.301312341606676e-06,Gradient Boosting
+cat__contract_type_Annual Contract,4.076700623506159e-06,Gradient Boosting
+cat__country_Germany,0.0,Gradient Boosting
+cat__component_category_Electronics,0.0,Gradient Boosting

@@ -1,0 +1,82 @@
+{
+  "generated_at": "2026-06-01T09:00:37+00:00",
+  "window_start": "2022-01-01",
+  "window_end": "2024-12-01",
+  "index_base_date": "2022-01-01",
+  "fred_endpoint": "https://fred.stlouisfed.org/graph/fredgraph.csv",
+  "datasets": [
+    {
+      "dataset": "commodity_index.csv",
+      "source": "FRED live",
+      "fred_series": {
+        "aluminum_usd_ton": "PALUMUSDM",
+        "copper_usd_ton": "PCOPPUSDM",
+        "iron_ore_usd_ton": "PIORECRUSDM"
+      },
+      "url": "https://fred.stlouisfed.org/graph/fredgraph.csv?id=PALUMUSDM (+PCOPPUSDM,PIORECRUSDM)",
+      "rows": 36,
+      "columns": [
+        "date",
+        "year",
+        "month",
+        "aluminum_usd_ton",
+        "copper_usd_ton",
+        "iron_ore_usd_ton",
+        "raw_material_index",
+        "source"
+      ],
+      "note": "raw_material_index = 0.45*aluminum + 0.30*copper + 0.25*iron_ore (each rebased to 100 at the window start)."
+    },
+    {
+      "dataset": "energy_cost_index.csv",
+      "source": "FRED live",
+      "fred_series": {
+        "energy_index_raw": "PNRGINDEXM"
+      },
+      "url": "https://fred.stlouisfed.org/graph/fredgraph.csv?id=PNRGINDEXM",
+      "rows": 36,
+      "columns": [
+        "date",
+        "year",
+        "month",
+        "energy_index_raw",
+        "energy_cost_index",
+        "source"
+      ],
+      "note": "Global price of Energy index (2016=100), rebased to 100 at window start."
+    },
+    {
+      "dataset": "exchange_rate_index.csv",
+      "source": "FRED live",
+      "fred_series": {
+        "eur_usd": "DEXUSEU"
+      },
+      "url": "https://fred.stlouisfed.org/graph/fredgraph.csv?id=DEXUSEU",
+      "rows": 36,
+      "columns": [
+        "date",
+        "year",
+        "month",
+        "eur_usd",
+        "exchange_rate_index",
+        "source"
+      ],
+      "note": "US$ per 1 EUR, monthly mean, rebased to 100 at window start. A FALLING index = weaker EUR = more expensive non-EUR imports."
+    },
+    {
+      "dataset": "country_reference.csv",
+      "source": "reference table (curated)",
+      "url": null,
+      "rows": 8,
+      "columns": [
+        "country",
+        "region",
+        "supplier_region",
+        "currency",
+        "distance_to_germany_km",
+        "country_risk_score"
+      ],
+      "note": "Manually curated reference table. distance_to_germany_km is an approximate one-way freight distance to a central German hub; country_risk_score (0-100) is an illustrative supply-chain risk PROXY, not a live feed."
+    }
+  ]
+}

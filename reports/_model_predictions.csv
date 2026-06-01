@@ -1,0 +1,901 @@
+component_type,actual_unit_price,predicted_unit_price,model
+Cooling System,590.2,570.89,Gradient Boosting
+Battery Module,10216.75,10427.03,Gradient Boosting
+Battery Module,11653.1,11581.06,Gradient Boosting
+Electric Motor Part,5187.58,5029.74,Gradient Boosting
+Wiring Harness,203.25,207.29,Gradient Boosting
+Electric Motor Part,4463.76,4064.75,Gradient Boosting
+Aluminum Casting,255.24,278.88,Gradient Boosting
+Battery Module,11822.8,10834.66,Gradient Boosting
+Battery Module,11111.18,10785.63,Gradient Boosting
+Suspension Component,294.23,293.72,Gradient Boosting
+Interior Trim,238.33,206.41,Gradient Boosting
+Interior Trim,188.19,168.27,Gradient Boosting
+Suspension Component,305.86,310.05,Gradient Boosting
+Suspension Component,326.06,462.33,Gradient Boosting
+Wiring Harness,244.17,281.83,Gradient Boosting
+Interior Trim,209.31,183.36,Gradient Boosting
+Interior Trim,219.45,320.57,Gradient Boosting
+Electric Motor Part,3755.59,3849.44,Gradient Boosting
+Brake System,513.51,483.59,Gradient Boosting
+Wiring Harness,210.02,207.54,Gradient Boosting
+Battery Module,10250.3,9646.94,Gradient Boosting
+Infotainment Unit,1413.79,1442.67,Gradient Boosting
+Brake System,495.27,481.34,Gradient Boosting
+Infotainment Unit,1199.1,1295.34,Gradient Boosting
+Tire Set,508.26,485.46,Gradient Boosting
+Suspension Component,331.3,345.87,Gradient Boosting
+Wiring Harness,155.35,144.93,Gradient Boosting
+Interior Trim,250.33,284.69,Gradient Boosting
+Aluminum Casting,324.06,389.03,Gradient Boosting
+Electric Motor Part,4252.46,4200.61,Gradient Boosting
+Wiring Harness,215.77,155.1,Gradient Boosting
+Tire Set,718.12,670.14,Gradient Boosting
+Brake System,505.37,507.95,Gradient Boosting
+Tire Set,659.71,601.56,Gradient Boosting
+Tire Set,626.73,521.17,Gradient Boosting
+Battery Module,12003.05,10246.85,Gradient Boosting
+Interior Trim,203.51,246.49,Gradient Boosting
+Electric Motor Part,3476.96,3814.01,Gradient Boosting
+Aluminum Casting,392.64,401.72,Gradient Boosting
+Tire Set,864.85,670.27,Gradient Boosting
+Electric Motor Part,4101.28,3989.99,Gradient Boosting
+Battery Module,10504.38,11924.05,Gradient Boosting
+Wiring Harness,204.19,258.62,Gradient Boosting
+Cooling System,532.74,361.07,Gradient Boosting
+Tire Set,593.59,555.98,Gradient Boosting
+Electric Motor Part,3199.0,3601.98,Gradient Boosting
+Aluminum Casting,407.72,444.59,Gradient Boosting
+Battery Module,12044.99,10715.37,Gradient Boosting
+Wiring Harness,142.13,110.36,Gradient Boosting
+Cooling System,473.54,404.08,Gradient Boosting
+Tire Set,773.88,793.5,Gradient Boosting
+Infotainment Unit,822.56,823.56,Gradient Boosting
+Tire Set,663.59,610.23,Gradient Boosting
+Infotainment Unit,968.95,990.16,Gradient Boosting
+Electric Motor Part,4468.48,4365.43,Gradient Boosting
+Brake System,603.39,559.32,Gradient Boosting
+Battery Module,10140.51,9787.66,Gradient Boosting
+Infotainment Unit,989.25,1061.37,Gradient Boosting
+Infotainment Unit,1136.66,967.25,Gradient Boosting
+Wiring Harness,232.9,226.27,Gradient Boosting
+Aluminum Casting,354.63,423.81,Gradient Boosting
+Brake System,562.79,630.92,Gradient Boosting
+Interior Trim,199.53,304.31,Gradient Boosting
+Interior Trim,257.81,302.47,Gradient Boosting
+Electric Motor Part,4230.96,4199.68,Gradient Boosting
+Aluminum Casting,278.77,334.54,Gradient Boosting
+Electric Motor Part,3848.14,3888.77,Gradient Boosting
+Brake System,410.23,436.44,Gradient Boosting
+Battery Module,16536.13,11719.93,Gradient Boosting
+Interior Trim,244.76,203.63,Gradient Boosting
+Tire Set,719.1,637.35,Gradient Boosting
+Cooling System,473.71,460.11,Gradient Boosting
+Interior Trim,236.07,187.51,Gradient Boosting
+Tire Set,794.05,600.61,Gradient Boosting
+Aluminum Casting,447.46,455.25,Gradient Boosting
+Infotainment Unit,1007.96,1041.58,Gradient Boosting
+Wiring Harness,154.71,155.58,Gradient Boosting
+Wiring Harness,166.6,141.06,Gradient Boosting
+Tire Set,579.95,978.26,Gradient Boosting
+Wiring Harness,291.7,359.34,Gradient Boosting
+Aluminum Casting,336.57,389.21,Gradient Boosting
+Aluminum Casting,393.02,464.37,Gradient Boosting
+Interior Trim,273.69,280.26,Gradient Boosting
+Suspension Component,393.08,459.56,Gradient Boosting
+Electric Motor Part,4435.63,4090.95,Gradient Boosting
+Interior Trim,207.47,246.72,Gradient Boosting
+Aluminum Casting,331.66,372.81,Gradient Boosting
+Wiring Harness,195.63,196.51,Gradient Boosting
+Wiring Harness,237.73,196.15,Gradient Boosting
+Electric Motor Part,4501.04,4083.78,Gradient Boosting
+Interior Trim,196.56,242.81,Gradient Boosting
+Brake System,496.97,508.29,Gradient Boosting
+Cooling System,570.52,285.84,Gradient Boosting
+Aluminum Casting,340.21,352.19,Gradient Boosting
+Interior Trim,259.87,283.89,Gradient Boosting
+Brake System,547.3,502.42,Gradient Boosting
+Wiring Harness,198.47,210.49,Gradient Boosting
+Wiring Harness,222.48,258.11,Gradient Boosting
+Tire Set,701.18,766.47,Gradient Boosting
+Interior Trim,225.89,267.39,Gradient Boosting
+Interior Trim,219.7,256.2,Gradient Boosting
+Battery Module,9175.43,9052.32,Gradient Boosting
+Wiring Harness,208.67,217.14,Gradient Boosting
+Suspension Component,344.22,433.26,Gradient Boosting
+Electric Motor Part,5297.14,4704.99,Gradient Boosting
+Brake System,423.94,396.65,Gradient Boosting
+Battery Module,10757.84,10289.1,Gradient Boosting
+Battery Module,9045.96,9644.1,Gradient Boosting
+Electric Motor Part,4799.11,4543.47,Gradient Boosting
+Suspension Component,397.39,436.49,Gradient Boosting
+Aluminum Casting,477.98,500.45,Gradient Boosting
+Battery Module,9924.89,9606.52,Gradient Boosting
+Electric Motor Part,4011.91,4076.5,Gradient Boosting
+Brake System,427.76,383.25,Gradient Boosting
+Battery Module,8959.8,8772.55,Gradient Boosting
+Interior Trim,212.61,220.67,Gradient Boosting
+Infotainment Unit,989.7,903.26,Gradient Boosting
+Battery Module,14067.77,13390.24,Gradient Boosting
+Tire Set,547.69,633.58,Gradient Boosting
+Suspension Component,530.44,482.27,Gradient Boosting
+Infotainment Unit,1593.52,1289.77,Gradient Boosting
+Interior Trim,222.53,179.56,Gradient Boosting
+Wiring Harness,212.6,270.24,Gradient Boosting
+Brake System,468.87,449.03,Gradient Boosting
+Electric Motor Part,3917.61,4013.51,Gradient Boosting
+Aluminum Casting,354.79,429.54,Gradient Boosting
+Interior Trim,275.8,277.68,Gradient Boosting
+Electric Motor Part,4242.69,4372.4,Gradient Boosting
+Aluminum Casting,322.12,329.81,Gradient Boosting
+Cooling System,538.37,434.21,Gradient Boosting
+Tire Set,610.89,605.5,Gradient Boosting
+Electric Motor Part,7169.71,6631.16,Gradient Boosting
+Battery Module,11407.92,11418.01,Gradient Boosting
+Brake System,593.87,591.6,Gradient Boosting
+Suspension Component,357.38,357.36,Gradient Boosting
+Tire Set,572.45,508.01,Gradient Boosting
+Infotainment Unit,751.05,779.34,Gradient Boosting
+Cooling System,570.59,428.17,Gradient Boosting
+Infotainment Unit,721.24,869.2,Gradient Boosting
+Aluminum Casting,330.8,349.33,Gradient Boosting
+Suspension Component,475.42,478.35,Gradient Boosting
+Electric Motor Part,4303.23,3891.35,Gradient Boosting
+Battery Module,12691.26,12528.06,Gradient Boosting
+Aluminum Casting,375.79,408.01,Gradient Boosting
+Cooling System,391.55,373.01,Gradient Boosting
+Wiring Harness,216.93,251.61,Gradient Boosting
+Interior Trim,253.07,298.99,Gradient Boosting
+Aluminum Casting,341.79,319.59,Gradient Boosting
+Brake System,488.53,557.75,Gradient Boosting
+Electric Motor Part,4489.71,4491.64,Gradient Boosting
+Battery Module,9972.8,9077.81,Gradient Boosting
+Infotainment Unit,985.48,904.06,Gradient Boosting
+Brake System,433.47,543.76,Gradient Boosting
+Brake System,716.99,581.11,Gradient Boosting
+Electric Motor Part,4325.93,4581.99,Gradient Boosting
+Infotainment Unit,963.13,903.58,Gradient Boosting
+Aluminum Casting,487.13,419.6,Gradient Boosting
+Electric Motor Part,4278.98,4111.48,Gradient Boosting
+Brake System,529.46,491.95,Gradient Boosting
+Battery Module,15396.84,13605.45,Gradient Boosting
+Cooling System,375.57,579.81,Gradient Boosting
+Brake System,538.3,483.92,Gradient Boosting
+Aluminum Casting,423.45,396.14,Gradient Boosting
+Electric Motor Part,4513.02,4870.45,Gradient Boosting
+Interior Trim,236.12,299.03,Gradient Boosting
+Interior Trim,225.04,244.67,Gradient Boosting
+Electric Motor Part,3897.92,4045.28,Gradient Boosting
+Electric Motor Part,3435.08,3659.97,Gradient Boosting
+Interior Trim,203.59,250.59,Gradient Boosting
+Battery Module,9755.09,8421.41,Gradient Boosting
+Cooling System,405.57,393.8,Gradient Boosting
+Interior Trim,243.37,273.61,Gradient Boosting
+Infotainment Unit,908.61,919.56,Gradient Boosting
+Tire Set,717.7,474.98,Gradient Boosting
+Infotainment Unit,829.54,834.73,Gradient Boosting
+Electric Motor Part,4203.77,4155.92,Gradient Boosting
+Cooling System,510.8,448.44,Gradient Boosting
+Tire Set,469.06,542.18,Gradient Boosting
+Cooling System,510.59,393.45,Gradient Boosting
+Suspension Component,365.1,409.49,Gradient Boosting
+Electric Motor Part,3504.18,3669.0,Gradient Boosting
+Electric Motor Part,3435.79,4012.25,Gradient Boosting
+Cooling System,562.19,573.61,Gradient Boosting
+Tire Set,563.39,657.05,Gradient Boosting
+Battery Module,8703.57,9062.0,Gradient Boosting
+Electric Motor Part,4943.77,4590.25,Gradient Boosting
+Infotainment Unit,1156.29,1135.01,Gradient Boosting
+Aluminum Casting,391.97,451.56,Gradient Boosting
+Aluminum Casting,325.76,383.17,Gradient Boosting
+Wiring Harness,203.89,158.67,Gradient Boosting
+Infotainment Unit,1381.76,959.33,Gradient Boosting
+Tire Set,548.08,613.18,Gradient Boosting
+Cooling System,439.4,456.95,Gradient Boosting
+Infotainment Unit,928.77,971.41,Gradient Boosting
+Wiring Harness,268.83,295.77,Gradient Boosting
+Infotainment Unit,1319.1,1263.15,Gradient Boosting
+Interior Trim,191.79,176.58,Gradient Boosting
+Brake System,510.12,508.9,Gradient Boosting
+Electric Motor Part,3300.78,3761.2,Gradient Boosting
+Aluminum Casting,351.9,403.39,Gradient Boosting
+Interior Trim,278.8,342.53,Gradient Boosting
+Wiring Harness,175.67,200.32,Gradient Boosting
+Suspension Component,338.93,347.0,Gradient Boosting
+Aluminum Casting,319.02,325.5,Gradient Boosting
+Tire Set,762.31,664.69,Gradient Boosting
+Tire Set,650.05,606.58,Gradient Boosting
+Tire Set,969.35,762.38,Gradient Boosting
+Infotainment Unit,1397.39,1367.32,Gradient Boosting
+Electric Motor Part,4838.85,4405.12,Gradient Boosting
+Infotainment Unit,1106.9,983.65,Gradient Boosting
+Cooling System,488.05,521.23,Gradient Boosting
+Suspension Component,372.74,444.85,Gradient Boosting
+Electric Motor Part,4946.88,3965.47,Gradient Boosting
+Electric Motor Part,3504.67,4043.94,Gradient Boosting
+Wiring Harness,200.6,195.06,Gradient Boosting
+Tire Set,556.32,565.24,Gradient Boosting
+Infotainment Unit,999.59,1002.77,Gradient Boosting
+Suspension Component,473.42,382.31,Gradient Boosting
+Infotainment Unit,913.72,896.03,Gradient Boosting
+Aluminum Casting,292.79,318.27,Gradient Boosting
+Wiring Harness,226.37,255.09,Gradient Boosting
+Tire Set,870.18,720.27,Gradient Boosting
+Interior Trim,227.21,212.54,Gradient Boosting
+Interior Trim,270.27,286.16,Gradient Boosting
+Wiring Harness,163.13,184.06,Gradient Boosting
+Interior Trim,229.32,292.66,Gradient Boosting
+Aluminum Casting,397.51,333.05,Gradient Boosting
+Electric Motor Part,3521.31,3808.56,Gradient Boosting
+Aluminum Casting,309.04,329.76,Gradient Boosting
+Interior Trim,223.52,233.82,Gradient Boosting
+Electric Motor Part,3866.63,4249.1,Gradient Boosting
+Brake System,490.04,482.68,Gradient Boosting
+Brake System,631.78,651.48,Gradient Boosting
+Suspension Component,418.81,370.82,Gradient Boosting
+Tire Set,608.15,654.11,Gradient Boosting
+Tire Set,668.56,712.83,Gradient Boosting
+Wiring Harness,187.74,174.24,Gradient Boosting
+Battery Module,13990.94,12058.4,Gradient Boosting
+Aluminum Casting,293.34,350.22,Gradient Boosting
+Tire Set,611.94,701.64,Gradient Boosting
+Cooling System,522.65,495.1,Gradient Boosting
+Brake System,450.2,428.05,Gradient Boosting
+Tire Set,763.96,616.59,Gradient Boosting
+Brake System,523.32,504.06,Gradient Boosting
+Interior Trim,239.3,248.49,Gradient Boosting
+Electric Motor Part,3424.3,3844.86,Gradient Boosting
+Cooling System,458.7,365.88,Gradient Boosting
+Aluminum Casting,274.51,261.88,Gradient Boosting
+Infotainment Unit,1322.19,1206.15,Gradient Boosting
+Infotainment Unit,1172.45,1190.19,Gradient Boosting
+Electric Motor Part,3993.31,3976.72,Gradient Boosting
+Infotainment Unit,1057.01,883.89,Gradient Boosting
+Interior Trim,266.16,281.98,Gradient Boosting
+Infotainment Unit,825.97,884.27,Gradient Boosting
+Aluminum Casting,327.8,297.09,Gradient Boosting
+Cooling System,543.17,565.72,Gradient Boosting
+Brake System,552.52,493.53,Gradient Boosting
+Suspension Component,317.33,386.53,Gradient Boosting
+Infotainment Unit,811.41,873.38,Gradient Boosting
+Brake System,719.82,678.76,Gradient Boosting
+Interior Trim,200.87,142.14,Gradient Boosting
+Cooling System,549.08,680.53,Gradient Boosting
+Aluminum Casting,356.93,329.81,Gradient Boosting
+Wiring Harness,217.11,265.18,Gradient Boosting
+Brake System,668.12,669.25,Gradient Boosting
+Battery Module,15735.48,12546.0,Gradient Boosting
+Electric Motor Part,4728.33,4604.11,Gradient Boosting
+Aluminum Casting,287.01,258.93,Gradient Boosting
+Wiring Harness,281.98,239.96,Gradient Boosting
+Brake System,590.16,541.47,Gradient Boosting
+Wiring Harness,232.94,422.84,Gradient Boosting
+Electric Motor Part,3844.27,4024.87,Gradient Boosting
+Cooling System,476.57,479.49,Gradient Boosting
+Suspension Component,352.69,328.26,Gradient Boosting
+Battery Module,12724.14,12756.27,Gradient Boosting
+Tire Set,575.0,602.3,Gradient Boosting
+Electric Motor Part,4316.31,4585.94,Gradient Boosting
+Interior Trim,213.58,238.01,Gradient Boosting
+Suspension Component,338.81,327.79,Gradient Boosting
+Brake System,738.53,785.76,Gradient Boosting
+Cooling System,452.7,450.85,Gradient Boosting
+Electric Motor Part,3572.87,3669.97,Gradient Boosting
+Infotainment Unit,1050.85,1025.73,Gradient Boosting
+Tire Set,847.78,780.86,Gradient Boosting
+Infotainment Unit,1048.34,988.66,Gradient Boosting
+Tire Set,561.21,596.91,Gradient Boosting
+Infotainment Unit,972.55,840.89,Gradient Boosting
+Aluminum Casting,470.88,599.07,Gradient Boosting
+Suspension Component,338.97,377.85,Gradient Boosting
+Electric Motor Part,4296.89,4410.78,Gradient Boosting
+Suspension Component,324.11,313.84,Gradient Boosting
+Suspension Component,483.08,408.27,Gradient Boosting
+Tire Set,572.44,859.28,Gradient Boosting
+Aluminum Casting,313.23,358.64,Gradient Boosting
+Infotainment Unit,1426.92,1094.48,Gradient Boosting
+Interior Trim,249.36,237.61,Gradient Boosting
+Aluminum Casting,361.91,384.82,Gradient Boosting
+Tire Set,811.0,682.7,Gradient Boosting
+Cooling System,467.83,458.35,Gradient Boosting
+Brake System,495.75,504.97,Gradient Boosting
+Aluminum Casting,391.84,416.12,Gradient Boosting
+Tire Set,741.43,682.33,Gradient Boosting
+Electric Motor Part,3847.15,3964.67,Gradient Boosting
+Aluminum Casting,351.15,338.46,Gradient Boosting
+Infotainment Unit,1004.22,1616.97,Gradient Boosting
+Infotainment Unit,810.22,881.34,Gradient Boosting
+Electric Motor Part,3661.71,3728.77,Gradient Boosting
+Brake System,470.01,466.75,Gradient Boosting
+Wiring Harness,287.05,358.45,Gradient Boosting
+Battery Module,12026.13,11036.52,Gradient Boosting
+Wiring Harness,154.1,172.87,Gradient Boosting
+Electric Motor Part,4042.05,4305.59,Gradient Boosting
+Electric Motor Part,3884.76,3894.91,Gradient Boosting
+Infotainment Unit,840.97,1029.62,Gradient Boosting
+Aluminum Casting,307.92,328.37,Gradient Boosting
+Wiring Harness,199.75,238.09,Gradient Boosting
+Interior Trim,241.73,271.06,Gradient Boosting
+Cooling System,474.35,500.3,Gradient Boosting
+Brake System,555.44,526.35,Gradient Boosting
+Brake System,617.02,598.64,Gradient Boosting
+Brake System,639.08,615.27,Gradient Boosting
+Interior Trim,201.26,245.59,Gradient Boosting
+Interior Trim,259.82,218.44,Gradient Boosting
+Electric Motor Part,5081.67,5551.96,Gradient Boosting
+Cooling System,540.33,456.61,Gradient Boosting
+Tire Set,563.98,506.8,Gradient Boosting
+Infotainment Unit,1199.64,892.89,Gradient Boosting
+Electric Motor Part,4581.99,4604.7,Gradient Boosting
+Infotainment Unit,1392.58,1243.42,Gradient Boosting
+Brake System,618.95,548.3,Gradient Boosting
+Interior Trim,261.95,294.2,Gradient Boosting
+Brake System,507.59,543.21,Gradient Boosting
+Battery Module,12132.42,10807.61,Gradient Boosting
+Suspension Component,359.73,417.65,Gradient Boosting
+Electric Motor Part,3751.63,3940.73,Gradient Boosting
+Wiring Harness,204.06,233.21,Gradient Boosting
+Wiring Harness,209.22,291.61,Gradient Boosting
+Interior Trim,288.43,495.94,Gradient Boosting
+Brake System,562.38,590.63,Gradient Boosting
+Interior Trim,228.17,265.79,Gradient Boosting
+Interior Trim,260.43,279.7,Gradient Boosting
+Infotainment Unit,1033.72,870.87,Gradient Boosting
+Suspension Component,424.21,468.67,Gradient Boosting
+Cooling System,542.94,489.85,Gradient Boosting
+Interior Trim,258.87,220.01,Gradient Boosting
+Infotainment Unit,818.64,856.47,Gradient Boosting
+Infotainment Unit,753.41,731.06,Gradient Boosting
+Wiring Harness,120.04,115.97,Gradient Boosting
+Interior Trim,277.68,362.78,Gradient Boosting
+Brake System,560.42,499.83,Gradient Boosting
+Interior Trim,209.57,305.12,Gradient Boosting
+Wiring Harness,144.68,191.34,Gradient Boosting
+Cooling System,416.34,421.59,Gradient Boosting
+Aluminum Casting,330.13,329.58,Gradient Boosting
+Tire Set,635.93,590.81,Gradient Boosting
+Infotainment Unit,1059.4,1283.73,Gradient Boosting
+Wiring Harness,226.77,275.23,Gradient Boosting
+Suspension Component,308.33,351.85,Gradient Boosting
+Cooling System,507.84,465.57,Gradient Boosting
+Brake System,541.93,484.89,Gradient Boosting
+Electric Motor Part,4722.32,4552.67,Gradient Boosting
+Aluminum Casting,485.48,461.12,Gradient Boosting
+Interior Trim,249.24,251.24,Gradient Boosting
+Tire Set,614.53,642.92,Gradient Boosting
+Aluminum Casting,314.62,372.76,Gradient Boosting
+Infotainment Unit,752.32,1042.8,Gradient Boosting
+Wiring Harness,211.42,199.31,Gradient Boosting
+Infotainment Unit,816.68,1035.46,Gradient Boosting
+Battery Module,7775.32,8175.51,Gradient Boosting
+Electric Motor Part,3697.9,3646.02,Gradient Boosting
+Brake System,488.37,417.61,Gradient Boosting
+Infotainment Unit,945.39,1025.34,Gradient Boosting
+Tire Set,606.69,640.15,Gradient Boosting
+Aluminum Casting,294.23,296.5,Gradient Boosting
+Interior Trim,234.0,243.58,Gradient Boosting
+Brake System,564.99,567.36,Gradient Boosting
+Cooling System,466.81,445.56,Gradient Boosting
+Wiring Harness,271.54,223.32,Gradient Boosting
+Wiring Harness,380.84,306.32,Gradient Boosting
+Tire Set,703.57,697.04,Gradient Boosting
+Interior Trim,247.79,278.09,Gradient Boosting
+Electric Motor Part,3493.45,3646.75,Gradient Boosting
+Tire Set,757.66,610.97,Gradient Boosting
+Tire Set,722.55,714.79,Gradient Boosting
+Infotainment Unit,844.82,974.63,Gradient Boosting
+Tire Set,726.25,704.91,Gradient Boosting
+Cooling System,512.67,607.05,Gradient Boosting
+Tire Set,517.06,556.22,Gradient Boosting
+Electric Motor Part,4499.41,5529.64,Gradient Boosting
+Electric Motor Part,5003.7,4753.67,Gradient Boosting
+Wiring Harness,161.67,186.35,Gradient Boosting
+Aluminum Casting,275.41,336.34,Gradient Boosting
+Wiring Harness,182.54,196.71,Gradient Boosting
+Tire Set,702.76,681.97,Gradient Boosting
+Infotainment Unit,859.56,885.51,Gradient Boosting
+Wiring Harness,300.29,275.59,Gradient Boosting
+Electric Motor Part,5968.19,5036.15,Gradient Boosting
+Suspension Component,304.51,279.4,Gradient Boosting
+Interior Trim,276.83,301.67,Gradient Boosting
+Aluminum Casting,379.11,359.74,Gradient Boosting
+Wiring Harness,199.49,243.72,Gradient Boosting
+Infotainment Unit,1288.88,1209.42,Gradient Boosting
+Tire Set,798.81,667.88,Gradient Boosting
+Brake System,531.09,480.67,Gradient Boosting
+Infotainment Unit,728.63,814.4,Gradient Boosting
+Aluminum Casting,311.17,324.13,Gradient Boosting
+Interior Trim,269.81,349.49,Gradient Boosting
+Interior Trim,195.73,261.67,Gradient Boosting
+Infotainment Unit,997.05,937.19,Gradient Boosting
+Brake System,687.75,812.02,Gradient Boosting
+Electric Motor Part,4207.71,4249.93,Gradient Boosting
+Aluminum Casting,482.77,445.42,Gradient Boosting
+Battery Module,10438.51,9716.31,Gradient Boosting
+Tire Set,788.84,623.64,Gradient Boosting
+Interior Trim,232.15,199.52,Gradient Boosting
+Interior Trim,240.7,234.21,Gradient Boosting
+Battery Module,10337.32,10316.81,Gradient Boosting
+Wiring Harness,216.17,162.81,Gradient Boosting
+Brake System,527.54,462.94,Gradient Boosting
+Brake System,506.63,626.24,Gradient Boosting
+Battery Module,9737.94,9492.4,Gradient Boosting
+Electric Motor Part,4717.25,5328.67,Gradient Boosting
+Aluminum Casting,387.05,480.03,Gradient Boosting
+Infotainment Unit,759.79,993.05,Gradient Boosting
+Wiring Harness,123.21,116.24,Gradient Boosting
+Interior Trim,204.64,176.55,Gradient Boosting
+Interior Trim,251.58,283.45,Gradient Boosting
+Aluminum Casting,366.59,535.58,Gradient Boosting
+Brake System,630.8,559.68,Gradient Boosting
+Tire Set,834.39,992.75,Gradient Boosting
+Brake System,476.0,513.46,Gradient Boosting
+Brake System,430.39,421.82,Gradient Boosting
+Aluminum Casting,385.87,408.37,Gradient Boosting
+Interior Trim,298.71,281.41,Gradient Boosting
+Infotainment Unit,729.19,927.34,Gradient Boosting
+Cooling System,632.28,480.73,Gradient Boosting
+Infotainment Unit,1255.13,734.94,Gradient Boosting
+Cooling System,444.32,405.56,Gradient Boosting
+Brake System,525.69,520.28,Gradient Boosting
+Battery Module,8854.16,9121.15,Gradient Boosting
+Wiring Harness,169.85,131.48,Gradient Boosting
+Interior Trim,220.2,246.63,Gradient Boosting
+Aluminum Casting,360.73,357.18,Gradient Boosting
+Aluminum Casting,385.72,426.54,Gradient Boosting
+Aluminum Casting,485.95,489.65,Gradient Boosting
+Wiring Harness,126.05,166.86,Gradient Boosting
+Electric Motor Part,3423.51,3874.98,Gradient Boosting
+Battery Module,10282.01,10491.24,Gradient Boosting
+Tire Set,683.01,623.63,Gradient Boosting
+Wiring Harness,220.49,311.98,Gradient Boosting
+Electric Motor Part,3751.09,3747.95,Gradient Boosting
+Aluminum Casting,327.33,327.2,Gradient Boosting
+Infotainment Unit,1186.12,1096.57,Gradient Boosting
+Interior Trim,223.32,234.64,Gradient Boosting
+Brake System,568.82,485.31,Gradient Boosting
+Cooling System,421.75,430.91,Gradient Boosting
+Infotainment Unit,1045.55,1000.17,Gradient Boosting
+Brake System,536.91,557.94,Gradient Boosting
+Aluminum Casting,441.0,438.48,Gradient Boosting
+Suspension Component,350.23,304.87,Gradient Boosting
+Interior Trim,251.39,269.6,Gradient Boosting
+Suspension Component,361.49,422.81,Gradient Boosting
+Wiring Harness,193.57,205.88,Gradient Boosting
+Aluminum Casting,361.12,402.57,Gradient Boosting
+Battery Module,11080.23,11155.98,Gradient Boosting
+Tire Set,694.41,579.27,Gradient Boosting
+Infotainment Unit,1151.86,1384.03,Gradient Boosting
+Interior Trim,206.03,249.23,Gradient Boosting
+Suspension Component,342.2,511.96,Gradient Boosting
+Battery Module,11504.85,10838.96,Gradient Boosting
+Aluminum Casting,369.25,413.08,Gradient Boosting
+Cooling System,492.3,451.84,Gradient Boosting
+Interior Trim,226.79,206.41,Gradient Boosting
+Infotainment Unit,1062.52,1082.0,Gradient Boosting
+Wiring Harness,202.65,169.04,Gradient Boosting
+Battery Module,18193.14,13995.88,Gradient Boosting
+Brake System,583.84,508.39,Gradient Boosting
+Electric Motor Part,5680.39,4782.76,Gradient Boosting
+Brake System,600.66,577.63,Gradient Boosting
+Infotainment Unit,1055.18,988.0,Gradient Boosting
+Electric Motor Part,5923.44,4835.54,Gradient Boosting
+Cooling System,474.23,380.1,Gradient Boosting
+Battery Module,10459.48,10704.65,Gradient Boosting
+Wiring Harness,276.1,283.42,Gradient Boosting
+Tire Set,753.55,733.14,Gradient Boosting
+Electric Motor Part,4845.89,4501.89,Gradient Boosting
+Electric Motor Part,4932.0,4797.45,Gradient Boosting
+Brake System,511.93,510.75,Gradient Boosting
+Aluminum Casting,383.55,423.28,Gradient Boosting
+Interior Trim,236.55,239.65,Gradient Boosting
+Electric Motor Part,3234.51,3699.45,Gradient Boosting
+Aluminum Casting,427.33,465.84,Gradient Boosting
+Tire Set,694.3,693.43,Gradient Boosting
+Electric Motor Part,3616.45,4016.09,Gradient Boosting
+Battery Module,11307.3,10962.07,Gradient Boosting
+Suspension Component,344.36,358.42,Gradient Boosting
+Wiring Harness,223.83,225.18,Gradient Boosting
+Tire Set,448.57,465.85,Gradient Boosting
+Brake System,485.55,530.22,Gradient Boosting
+Electric Motor Part,3576.17,3680.08,Gradient Boosting
+Wiring Harness,270.59,348.62,Gradient Boosting
+Infotainment Unit,993.18,726.66,Gradient Boosting
+Suspension Component,300.65,394.87,Gradient Boosting
+Infotainment Unit,1359.56,1613.47,Gradient Boosting
+Interior Trim,273.07,297.29,Gradient Boosting
+Aluminum Casting,314.85,377.62,Gradient Boosting
+Battery Module,12025.1,12508.35,Gradient Boosting
+Wiring Harness,171.19,167.78,Gradient Boosting
+Brake System,688.53,642.06,Gradient Boosting
+Tire Set,552.72,527.64,Gradient Boosting
+Interior Trim,318.74,241.92,Gradient Boosting
+Tire Set,749.29,745.73,Gradient Boosting
+Wiring Harness,180.95,232.33,Gradient Boosting
+Tire Set,741.61,898.72,Gradient Boosting
+Infotainment Unit,1080.81,1114.88,Gradient Boosting
+Infotainment Unit,1194.2,1142.21,Gradient Boosting
+Tire Set,528.24,663.97,Gradient Boosting
+Electric Motor Part,3847.13,4260.76,Gradient Boosting
+Infotainment Unit,796.81,912.35,Gradient Boosting
+Electric Motor Part,3770.32,4196.83,Gradient Boosting
+Aluminum Casting,327.66,342.72,Gradient Boosting
+Suspension Component,392.86,491.91,Gradient Boosting
+Aluminum Casting,361.29,405.85,Gradient Boosting
+Interior Trim,226.39,224.52,Gradient Boosting
+Infotainment Unit,1127.02,1001.38,Gradient Boosting
+Cooling System,408.03,393.03,Gradient Boosting
+Electric Motor Part,3638.74,4216.18,Gradient Boosting
+Aluminum Casting,444.27,444.09,Gradient Boosting
+Interior Trim,247.18,246.74,Gradient Boosting
+Cooling System,498.66,439.81,Gradient Boosting
+Wiring Harness,230.86,249.03,Gradient Boosting
+Interior Trim,215.43,286.42,Gradient Boosting
+Aluminum Casting,423.46,425.33,Gradient Boosting
+Electric Motor Part,3744.29,3659.06,Gradient Boosting
+Wiring Harness,244.03,276.05,Gradient Boosting
+Suspension Component,339.85,344.56,Gradient Boosting
+Aluminum Casting,315.59,360.03,Gradient Boosting
+Battery Module,13986.1,13824.95,Gradient Boosting
+Infotainment Unit,1338.03,1206.82,Gradient Boosting
+Wiring Harness,174.92,221.3,Gradient Boosting
+Tire Set,832.96,1136.47,Gradient Boosting
+Infotainment Unit,994.66,921.27,Gradient Boosting
+Infotainment Unit,631.02,901.41,Gradient Boosting
+Battery Module,13496.53,13428.96,Gradient Boosting
+Aluminum Casting,437.1,559.26,Gradient Boosting
+Infotainment Unit,937.5,944.28,Gradient Boosting
+Infotainment Unit,1150.75,1114.03,Gradient Boosting
+Electric Motor Part,4248.3,3840.65,Gradient Boosting
+Electric Motor Part,4111.96,4135.91,Gradient Boosting
+Interior Trim,241.4,238.4,Gradient Boosting
+Electric Motor Part,4031.74,3980.49,Gradient Boosting
+Electric Motor Part,4706.21,4812.89,Gradient Boosting
+Electric Motor Part,4852.61,4986.86,Gradient Boosting
+Electric Motor Part,4603.43,4750.63,Gradient Boosting
+Wiring Harness,258.7,297.97,Gradient Boosting
+Electric Motor Part,5141.08,4900.94,Gradient Boosting
+Tire Set,637.72,635.41,Gradient Boosting
+Infotainment Unit,988.53,850.43,Gradient Boosting
+Infotainment Unit,927.87,862.63,Gradient Boosting
+Brake System,550.22,611.95,Gradient Boosting
+Electric Motor Part,3443.28,3838.24,Gradient Boosting
+Wiring Harness,301.81,264.94,Gradient Boosting
+Aluminum Casting,445.82,437.65,Gradient Boosting
+Aluminum Casting,330.43,345.94,Gradient Boosting
+Wiring Harness,199.81,209.82,Gradient Boosting
+Infotainment Unit,1239.4,1075.07,Gradient Boosting
+Wiring Harness,233.59,315.49,Gradient Boosting
+Electric Motor Part,4411.57,4049.46,Gradient Boosting
+Wiring Harness,257.21,211.9,Gradient Boosting
+Infotainment Unit,1008.14,938.12,Gradient Boosting
+Interior Trim,230.28,193.71,Gradient Boosting
+Brake System,629.14,506.99,Gradient Boosting
+Interior Trim,256.78,228.99,Gradient Boosting
+Aluminum Casting,383.4,385.47,Gradient Boosting
+Interior Trim,232.26,283.14,Gradient Boosting
+Infotainment Unit,947.16,1092.7,Gradient Boosting
+Infotainment Unit,1143.96,1101.96,Gradient Boosting
+Wiring Harness,226.7,274.49,Gradient Boosting
+Interior Trim,249.37,322.8,Gradient Boosting
+Infotainment Unit,972.56,891.38,Gradient Boosting
+Tire Set,593.11,707.35,Gradient Boosting
+Aluminum Casting,318.34,407.51,Gradient Boosting
+Electric Motor Part,4672.23,4892.49,Gradient Boosting
+Electric Motor Part,6317.36,4527.39,Gradient Boosting
+Tire Set,609.39,559.73,Gradient Boosting
+Suspension Component,334.92,292.72,Gradient Boosting
+Battery Module,9372.1,10622.97,Gradient Boosting
+Wiring Harness,216.42,199.64,Gradient Boosting
+Infotainment Unit,1307.54,1143.32,Gradient Boosting
+Aluminum Casting,334.72,377.79,Gradient Boosting
+Wiring Harness,161.43,158.16,Gradient Boosting
+Electric Motor Part,4736.34,3875.92,Gradient Boosting
+Interior Trim,196.2,258.93,Gradient Boosting
+Infotainment Unit,895.48,1036.89,Gradient Boosting
+Battery Module,9732.01,10983.88,Gradient Boosting
+Electric Motor Part,3725.99,3805.74,Gradient Boosting
+Electric Motor Part,3575.95,3881.64,Gradient Boosting
+Brake System,497.44,507.1,Gradient Boosting
+Electric Motor Part,4217.24,4276.88,Gradient Boosting
+Infotainment Unit,963.92,897.38,Gradient Boosting
+Tire Set,631.99,600.39,Gradient Boosting
+Wiring Harness,241.89,245.61,Gradient Boosting
+Battery Module,9517.74,10695.32,Gradient Boosting
+Infotainment Unit,1512.51,1264.52,Gradient Boosting
+Interior Trim,217.02,247.58,Gradient Boosting
+Brake System,549.92,624.63,Gradient Boosting
+Electric Motor Part,3512.58,3781.69,Gradient Boosting
+Cooling System,460.88,394.67,Gradient Boosting
+Electric Motor Part,4739.88,4284.27,Gradient Boosting
+Battery Module,13376.79,14515.58,Gradient Boosting
+Tire Set,901.02,807.85,Gradient Boosting
+Brake System,699.91,636.58,Gradient Boosting
+Battery Module,11422.18,11639.83,Gradient Boosting
+Interior Trim,293.74,264.99,Gradient Boosting
+Electric Motor Part,4364.78,4270.53,Gradient Boosting
+Suspension Component,364.91,433.7,Gradient Boosting
+Brake System,571.35,636.68,Gradient Boosting
+Tire Set,703.27,716.36,Gradient Boosting
+Cooling System,530.39,518.5,Gradient Boosting
+Cooling System,543.68,523.33,Gradient Boosting
+Tire Set,699.4,785.75,Gradient Boosting
+Interior Trim,256.05,240.46,Gradient Boosting
+Suspension Component,429.41,428.96,Gradient Boosting
+Interior Trim,196.31,156.62,Gradient Boosting
+Brake System,685.59,564.47,Gradient Boosting
+Cooling System,531.15,530.07,Gradient Boosting
+Aluminum Casting,393.28,399.87,Gradient Boosting
+Electric Motor Part,4323.85,4582.33,Gradient Boosting
+Electric Motor Part,5585.83,5071.44,Gradient Boosting
+Tire Set,589.89,554.28,Gradient Boosting
+Wiring Harness,170.43,147.14,Gradient Boosting
+Aluminum Casting,318.19,344.92,Gradient Boosting
+Cooling System,495.17,507.4,Gradient Boosting
+Wiring Harness,168.25,190.52,Gradient Boosting
+Battery Module,8795.19,9575.17,Gradient Boosting
+Aluminum Casting,414.8,460.33,Gradient Boosting
+Brake System,504.64,487.75,Gradient Boosting
+Wiring Harness,213.69,210.99,Gradient Boosting
+Wiring Harness,197.36,244.55,Gradient Boosting
+Interior Trim,278.25,304.75,Gradient Boosting
+Wiring Harness,211.4,270.73,Gradient Boosting
+Cooling System,471.21,398.79,Gradient Boosting
+Wiring Harness,293.09,283.76,Gradient Boosting
+Infotainment Unit,792.78,814.52,Gradient Boosting
+Aluminum Casting,263.29,309.14,Gradient Boosting
+Electric Motor Part,3731.97,3844.73,Gradient Boosting
+Electric Motor Part,3529.61,3848.19,Gradient Boosting
+Interior Trim,224.01,275.14,Gradient Boosting
+Infotainment Unit,1204.15,1321.21,Gradient Boosting
+Aluminum Casting,287.56,343.98,Gradient Boosting
+Aluminum Casting,629.28,531.24,Gradient Boosting
+Electric Motor Part,3595.07,3679.1,Gradient Boosting
+Infotainment Unit,1142.26,981.37,Gradient Boosting
+Tire Set,519.41,491.02,Gradient Boosting
+Battery Module,9275.33,10299.85,Gradient Boosting
+Aluminum Casting,438.1,558.14,Gradient Boosting
+Suspension Component,305.17,315.4,Gradient Boosting
+Suspension Component,374.5,327.58,Gradient Boosting
+Tire Set,611.64,555.36,Gradient Boosting
+Battery Module,13772.04,12924.42,Gradient Boosting
+Cooling System,625.32,509.48,Gradient Boosting
+Suspension Component,305.43,343.47,Gradient Boosting
+Battery Module,8557.2,9423.45,Gradient Boosting
+Infotainment Unit,1360.41,1585.61,Gradient Boosting
+Wiring Harness,184.15,218.31,Gradient Boosting
+Brake System,582.64,502.0,Gradient Boosting
+Infotainment Unit,1234.12,1257.9,Gradient Boosting
+Cooling System,433.41,420.03,Gradient Boosting
+Infotainment Unit,1133.67,1203.97,Gradient Boosting
+Infotainment Unit,808.13,901.17,Gradient Boosting
+Aluminum Casting,392.63,369.8,Gradient Boosting
+Brake System,614.28,521.32,Gradient Boosting
+Tire Set,570.64,589.18,Gradient Boosting
+Suspension Component,280.06,367.43,Gradient Boosting
+Wiring Harness,165.84,199.21,Gradient Boosting
+Infotainment Unit,964.91,932.37,Gradient Boosting
+Interior Trim,217.78,250.51,Gradient Boosting
+Electric Motor Part,3520.06,3674.11,Gradient Boosting
+Cooling System,456.84,367.78,Gradient Boosting
+Battery Module,11094.96,12183.25,Gradient Boosting
+Infotainment Unit,864.08,882.0,Gradient Boosting
+Aluminum Casting,327.05,353.36,Gradient Boosting
+Brake System,388.43,393.84,Gradient Boosting
+Wiring Harness,193.68,222.67,Gradient Boosting
+Suspension Component,363.55,409.23,Gradient Boosting
+Interior Trim,278.78,307.88,Gradient Boosting
+Electric Motor Part,4197.37,3800.57,Gradient Boosting
+Interior Trim,269.64,285.73,Gradient Boosting
+Interior Trim,217.4,205.81,Gradient Boosting
+Infotainment Unit,983.03,814.33,Gradient Boosting
+Aluminum Casting,418.57,473.56,Gradient Boosting
+Brake System,516.2,443.49,Gradient Boosting
+Infotainment Unit,1460.88,1127.63,Gradient Boosting
+Brake System,450.34,414.79,Gradient Boosting
+Tire Set,721.4,666.65,Gradient Boosting
+Wiring Harness,185.39,198.53,Gradient Boosting
+Cooling System,460.56,403.68,Gradient Boosting
+Brake System,570.96,526.22,Gradient Boosting
+Aluminum Casting,545.4,383.31,Gradient Boosting
+Suspension Component,314.19,329.2,Gradient Boosting
+Interior Trim,199.1,205.72,Gradient Boosting
+Aluminum Casting,332.88,382.87,Gradient Boosting
+Electric Motor Part,5206.51,5236.37,Gradient Boosting
+Brake System,387.89,377.53,Gradient Boosting
+Aluminum Casting,323.95,344.61,Gradient Boosting
+Battery Module,9357.13,9612.11,Gradient Boosting
+Interior Trim,230.67,290.85,Gradient Boosting
+Suspension Component,297.79,364.02,Gradient Boosting
+Infotainment Unit,1318.37,1204.87,Gradient Boosting
+Infotainment Unit,838.48,870.27,Gradient Boosting
+Interior Trim,311.71,333.32,Gradient Boosting
+Cooling System,606.56,557.66,Gradient Boosting
+Suspension Component,316.37,329.41,Gradient Boosting
+Interior Trim,227.72,167.19,Gradient Boosting
+Electric Motor Part,4205.98,3757.69,Gradient Boosting
+Tire Set,608.01,564.55,Gradient Boosting
+Wiring Harness,208.68,251.28,Gradient Boosting
+Brake System,399.77,402.23,Gradient Boosting
+Aluminum Casting,337.44,359.9,Gradient Boosting
+Infotainment Unit,1102.85,1114.16,Gradient Boosting
+Aluminum Casting,401.16,499.38,Gradient Boosting
+Wiring Harness,196.89,284.5,Gradient Boosting
+Cooling System,439.58,547.82,Gradient Boosting
+Wiring Harness,138.9,172.27,Gradient Boosting
+Electric Motor Part,3051.78,3587.19,Gradient Boosting
+Electric Motor Part,3352.1,3716.38,Gradient Boosting
+Wiring Harness,152.03,134.46,Gradient Boosting
+Cooling System,446.34,444.99,Gradient Boosting
+Tire Set,631.61,579.22,Gradient Boosting
+Wiring Harness,198.61,221.16,Gradient Boosting
+Wiring Harness,229.46,233.17,Gradient Boosting
+Wiring Harness,233.21,218.51,Gradient Boosting
+Brake System,645.82,630.3,Gradient Boosting
+Interior Trim,227.49,241.87,Gradient Boosting
+Interior Trim,235.83,234.82,Gradient Boosting
+Brake System,824.62,633.68,Gradient Boosting
+Electric Motor Part,4962.84,5266.59,Gradient Boosting
+Infotainment Unit,951.43,812.33,Gradient Boosting
+Electric Motor Part,4319.01,4075.25,Gradient Boosting
+Wiring Harness,132.95,144.64,Gradient Boosting
+Brake System,496.21,465.44,Gradient Boosting
+Aluminum Casting,284.07,244.75,Gradient Boosting
+Battery Module,8792.57,9059.69,Gradient Boosting
+Tire Set,597.23,575.48,Gradient Boosting
+Electric Motor Part,3534.37,3873.22,Gradient Boosting
+Infotainment Unit,988.86,906.87,Gradient Boosting
+Suspension Component,383.59,466.26,Gradient Boosting
+Aluminum Casting,381.73,438.95,Gradient Boosting
+Infotainment Unit,1087.63,1034.01,Gradient Boosting
+Brake System,417.41,455.67,Gradient Boosting
+Battery Module,9048.66,9172.1,Gradient Boosting
+Infotainment Unit,897.89,866.32,Gradient Boosting
+Aluminum Casting,461.98,461.87,Gradient Boosting
+Cooling System,652.21,464.69,Gradient Boosting
+Tire Set,612.27,518.84,Gradient Boosting
+Interior Trim,196.96,183.93,Gradient Boosting
+Cooling System,490.48,549.52,Gradient Boosting
+Suspension Component,404.94,492.46,Gradient Boosting
+Wiring Harness,173.01,175.33,Gradient Boosting
+Tire Set,622.7,579.05,Gradient Boosting
+Suspension Component,336.96,401.14,Gradient Boosting
+Brake System,556.42,563.29,Gradient Boosting
+Tire Set,722.72,682.8,Gradient Boosting
+Wiring Harness,157.24,293.57,Gradient Boosting
+Battery Module,13138.41,14108.71,Gradient Boosting
+Aluminum Casting,389.19,409.36,Gradient Boosting
+Infotainment Unit,1009.16,1047.0,Gradient Boosting
+Brake System,451.84,509.81,Gradient Boosting
+Tire Set,582.29,693.4,Gradient Boosting
+Wiring Harness,154.67,187.52,Gradient Boosting
+Electric Motor Part,4763.13,4052.68,Gradient Boosting
+Brake System,614.2,630.51,Gradient Boosting
+Tire Set,590.23,611.04,Gradient Boosting
+Cooling System,334.64,421.19,Gradient Boosting
+Suspension Component,374.69,355.47,Gradient Boosting
+Cooling System,411.8,471.22,Gradient Boosting
+Tire Set,766.73,636.21,Gradient Boosting
+Infotainment Unit,966.34,895.18,Gradient Boosting
+Battery Module,13796.86,10198.13,Gradient Boosting
+Interior Trim,241.64,255.05,Gradient Boosting
+Cooling System,377.23,402.34,Gradient Boosting
+Infotainment Unit,1251.99,1543.32,Gradient Boosting
+Cooling System,447.8,415.41,Gradient Boosting
+Wiring Harness,222.06,208.83,Gradient Boosting
+Electric Motor Part,4344.32,4105.88,Gradient Boosting
+Electric Motor Part,3970.54,4142.84,Gradient Boosting
+Aluminum Casting,321.38,372.81,Gradient Boosting
+Brake System,624.34,568.86,Gradient Boosting
+Interior Trim,233.76,194.46,Gradient Boosting
+Interior Trim,280.09,289.28,Gradient Boosting
+Electric Motor Part,5244.37,5825.94,Gradient Boosting
+Battery Module,12172.22,11125.68,Gradient Boosting
+Aluminum Casting,336.79,402.8,Gradient Boosting
+Aluminum Casting,443.93,388.48,Gradient Boosting
+Infotainment Unit,1243.64,1046.21,Gradient Boosting
+Battery Module,13291.27,14258.98,Gradient Boosting
+Electric Motor Part,4151.76,4144.18,Gradient Boosting
+Battery Module,7744.9,8963.78,Gradient Boosting
+Cooling System,492.99,533.81,Gradient Boosting
+Electric Motor Part,4400.46,4616.84,Gradient Boosting
+Tire Set,485.32,539.26,Gradient Boosting
+Battery Module,10657.95,11354.65,Gradient Boosting
+Cooling System,419.9,575.46,Gradient Boosting
+Battery Module,9495.3,10622.42,Gradient Boosting
+Interior Trim,182.54,220.19,Gradient Boosting
+Tire Set,758.36,773.75,Gradient Boosting
+Aluminum Casting,356.4,366.02,Gradient Boosting
+Tire Set,724.1,645.28,Gradient Boosting
+Suspension Component,278.19,299.0,Gradient Boosting
+Cooling System,622.6,520.96,Gradient Boosting
+Aluminum Casting,382.58,430.56,Gradient Boosting
+Interior Trim,225.56,259.29,Gradient Boosting
+Electric Motor Part,3445.6,3711.97,Gradient Boosting
+Brake System,473.28,519.81,Gradient Boosting
+Tire Set,574.53,532.25,Gradient Boosting
+Electric Motor Part,3830.48,3995.53,Gradient Boosting
+Tire Set,646.42,617.54,Gradient Boosting
+Interior Trim,355.45,362.0,Gradient Boosting
+Electric Motor Part,5033.12,4485.22,Gradient Boosting
+Infotainment Unit,1223.49,1294.4,Gradient Boosting
+Electric Motor Part,3844.87,4125.91,Gradient Boosting
+Battery Module,8905.76,10068.26,Gradient Boosting
+Cooling System,500.45,477.7,Gradient Boosting
+Suspension Component,362.83,429.5,Gradient Boosting
+Interior Trim,261.95,261.88,Gradient Boosting
+Aluminum Casting,369.39,420.53,Gradient Boosting
+Brake System,571.95,626.58,Gradient Boosting
+Wiring Harness,252.87,267.38,Gradient Boosting
+Aluminum Casting,311.54,278.23,Gradient Boosting
+Electric Motor Part,5017.7,4311.23,Gradient Boosting
+Infotainment Unit,777.76,1032.2,Gradient Boosting
+Aluminum Casting,439.39,412.38,Gradient Boosting
+Aluminum Casting,371.99,403.43,Gradient Boosting
+Wiring Harness,187.78,209.75,Gradient Boosting
+Interior Trim,218.48,295.1,Gradient Boosting
+Electric Motor Part,4801.43,4491.6,Gradient Boosting
+Interior Trim,255.71,302.84,Gradient Boosting
+Interior Trim,250.68,307.39,Gradient Boosting
+Brake System,518.93,575.98,Gradient Boosting
+Tire Set,748.73,775.33,Gradient Boosting
+Tire Set,683.8,592.31,Gradient Boosting
+Battery Module,13988.52,13831.32,Gradient Boosting
+Wiring Harness,158.16,243.67,Gradient Boosting
+Tire Set,675.49,612.48,Gradient Boosting
+Electric Motor Part,4606.87,4373.42,Gradient Boosting
+Infotainment Unit,884.82,1000.11,Gradient Boosting
+Cooling System,548.85,482.16,Gradient Boosting
+Electric Motor Part,4070.98,4280.44,Gradient Boosting
+Cooling System,596.52,535.13,Gradient Boosting
+Wiring Harness,176.92,194.91,Gradient Boosting
+Interior Trim,264.91,265.86,Gradient Boosting
+Infotainment Unit,1236.38,1089.81,Gradient Boosting
+Wiring Harness,230.61,236.77,Gradient Boosting
+Aluminum Casting,287.4,308.79,Gradient Boosting
+Brake System,711.49,979.01,Gradient Boosting
+Cooling System,558.93,529.87,Gradient Boosting
+Infotainment Unit,769.75,788.68,Gradient Boosting
+Infotainment Unit,1209.7,1103.7,Gradient Boosting
+Suspension Component,311.99,352.87,Gradient Boosting
+Aluminum Casting,267.58,290.54,Gradient Boosting
+Battery Module,10760.39,11812.79,Gradient Boosting
+Suspension Component,498.85,587.61,Gradient Boosting
+Interior Trim,297.87,305.17,Gradient Boosting
+Aluminum Casting,339.37,452.16,Gradient Boosting
+Tire Set,750.15,622.64,Gradient Boosting
+Cooling System,529.11,433.82,Gradient Boosting
+Infotainment Unit,877.06,878.2,Gradient Boosting
+Cooling System,600.18,480.04,Gradient Boosting
+Electric Motor Part,5919.85,4911.86,Gradient Boosting
+Infotainment Unit,1146.29,1104.65,Gradient Boosting
+Infotainment Unit,851.31,914.7,Gradient Boosting
+Infotainment Unit,1098.43,1036.25,Gradient Boosting
+Aluminum Casting,422.07,456.78,Gradient Boosting
+Brake System,548.81,459.3,Gradient Boosting
+Cooling System,514.53,496.61,Gradient Boosting
+Wiring Harness,224.36,267.01,Gradient Boosting
+Infotainment Unit,742.62,704.81,Gradient Boosting
+Aluminum Casting,565.78,659.87,Gradient Boosting
+Cooling System,365.43,381.05,Gradient Boosting
+Wiring Harness,235.59,306.41,Gradient Boosting
+Tire Set,435.77,472.27,Gradient Boosting
+Electric Motor Part,4523.14,4509.59,Gradient Boosting
+Interior Trim,233.47,304.08,Gradient Boosting
+Brake System,613.91,579.36,Gradient Boosting
+Cooling System,644.18,528.35,Gradient Boosting
+Interior Trim,255.37,265.14,Gradient Boosting
+Electric Motor Part,3640.11,3943.3,Gradient Boosting
+Suspension Component,435.42,488.1,Gradient Boosting
+Brake System,509.14,553.24,Gradient Boosting
+Suspension Component,366.68,295.4,Gradient Boosting
+Battery Module,11653.77,9867.19,Gradient Boosting
+Cooling System,488.99,495.93,Gradient Boosting
+Tire Set,647.97,577.14,Gradient Boosting
+Infotainment Unit,665.54,1001.61,Gradient Boosting
+Aluminum Casting,310.75,271.95,Gradient Boosting
+Interior Trim,229.01,284.11,Gradient Boosting
+Tire Set,489.7,499.44,Gradient Boosting
+Wiring Harness,233.09,206.95,Gradient Boosting
+Infotainment Unit,1025.15,1021.56,Gradient Boosting
+Brake System,549.92,575.88,Gradient Boosting

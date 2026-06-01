@@ -1,0 +1,9 @@
+country,region,supplier_region,currency,distance_to_germany_km,country_risk_score
+Germany,Europe,Domestic,EUR,250,10
+Czech Republic,Europe,EU-East,CZK,350,18
+Poland,Europe,EU-East,PLN,700,22
+Italy,Europe,EU-West,EUR,750,28
+Spain,Europe,EU-West,EUR,1600,26
+China,Asia,Asia-Pacific,CNY,19000,65
+Mexico,North America,Nearshore-Americas,MXN,9800,48
+USA,North America,North-America,USD,7500,30
